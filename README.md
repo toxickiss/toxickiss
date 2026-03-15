@@ -3,7 +3,7 @@
   ![ch](https://file.garden/aWda6_hwaGcNwjuj/clfc.png)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Caramel&size=42&duration=5000&pause=4000&color=560708&center=true&width=400&lines=I+love+him+like+nobody+else+can"./>
+<img src="https://readme-typing-svg.demolab.com?font=Explora&size=42&duration=5000&pause=4000&color=560708&center=true&width=500&lines=Kiss+me+you+animal+and+don't+ever+let+me+go"./>
  
 </p>
 </div>
