@@ -1,4 +1,8 @@
-->![](https://file.garden/aWda6_hwaGcNwjuj/clfc.png)<-
+<div align="center">
+ 
+  ![ch](https://file.garden/aWda6_hwaGcNwjuj/clfc.png)
+
+</div>
 
 <!--
 **TOXICKISS/TOXICKISS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
