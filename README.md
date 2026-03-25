@@ -1,9 +1,6 @@
 <div align="center">
  
-  ![ch](https://file.garden/aWda6_hwaGcNwjuj/vill.png)
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Explora&size=35&duration=5000&pause=4000&color=C6B2C0&center=true&width=400&lines=Go+insane+from+the+bitter+feeling+~"./>
+  ![ch](https://file.garden/aWda6_hwaGcNwjuj/ia.png)
  
 </p>
 </div>
