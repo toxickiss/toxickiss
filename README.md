@@ -1,6 +1,6 @@
 <div align="center">
  
-  ![ch](https://file.garden/aWda6_hwaGcNwjuj/ia.png)
+ 
  
 </p>
 </div>
